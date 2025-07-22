@@ -1,7 +1,7 @@
 
 ---
 
-## 🏰 **Rook Move Visualizer – Student Friendly Brief**
+## 🏰 **Rook Move Visualizer**
 
 ### 🎯 **Goal**
 
