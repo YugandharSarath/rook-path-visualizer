@@ -37,15 +37,5 @@ When a user **hovers** over any square, highlight all squares in the **same row 
 
 ---
 
-### ♿ **Accessibility & Testability – Use These Attributes**
-
-| Element          | `role`     | `data-testid`            |
-| ---------------- | ---------- | ------------------------ |
-| Full Board       | `grid`     | `rook-board`             |
-| Each Row         | `row`      | `grid-row`               |
-| Each Cell        | `gridcell` | `grid-cell`              |
-| Highlighted Cell | (same)     | `highlighted` (optional) |
-
-You may also use **CSS classes** like `hovered`, `rook-move`, etc., to visually distinguish hovered and highlighted cells (as referenced in tests).
 
 
